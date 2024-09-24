@@ -43,7 +43,6 @@ This sample project is to delve deep into the work of foreign Exchange (FX) to p
 ### Demo Video
 Can be found under DemoVideo folder in the root project
 
-https://github.com/user-attachments/assets/1b1e1921-8689-4d08-98a4-bdc2de775ae9
 
 ### Unit Tests
 
