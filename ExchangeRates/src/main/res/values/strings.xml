@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exchange Rates</string>
+    <string name="history_rates">History Rates</string>
+    <string name="date">Date</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="compare">Compare ExchangeRates History?</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="flag_to_be_added">TBA</string>
+    <string name="text_generic_error">Oops something went wrong ! Please Retry.</string>
+</resources>
